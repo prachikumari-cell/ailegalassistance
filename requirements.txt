@@ -7,7 +7,7 @@ python-multipart==0.0.9
 # AI + embeddings
 openai==1.30.1
 sentence-transformers==3.0.1
-faiss-cpu==1.8.0
+
 numpy==1.26.4
 scikit-learn==1.4.2
 

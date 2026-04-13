@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "article": "Article 12",
+    "title": "Definition of State",
+    "text": "In this Part, unless the context otherwise requires, the State includes the Government and Parliament of India and the Government and the Legislature of each of the States and all local or other authorities within the territory of India or under the control of the Government of India.",
+    "simple_explanation": "This article defines what 'State' means in the Constitution. It includes Central Government, Parliament, State Governments, State Legislatures, and local bodies like municipalities and panchayats. This is important because fundamental rights are enforceable against the 'State'.",
+    "keywords": ["state", "government", "parliament", "legislature", "authority", "local body", "municipality", "panchayat", "central government"]
+  },
+  {
+    "id": 2,
+    "article": "Article 13",
+    "title": "Laws Inconsistent with Fundamental Rights",
+    "text": "All laws in force in the territory of India immediately before the commencement of this Constitution, in so far as they are inconsistent with the provisions of this Part, shall, to the extent of such inconsistency, be void. The State shall not make any law which takes away or abridges the rights conferred by this Part.",
+    "simple_explanation": "Any law that violates Fundamental Rights is automatically invalid. Courts can strike down such laws. This is the basis of judicial review — the power of courts to check if laws are constitutional.",
+    "keywords": ["void", "inconsistent", "fundamental rights", "abridge", "unconstitutional", "judicial review", "invalid law", "repugnant"]
+  },
+  {
+    "id": 3,
+    "article": "Article 14",
+    "title": "Right to Equality",
+    "text": "The State shall not deny to any person equality before the law or the equal protection of the laws within the territory of India.",
+    "simple_explanation": "Everyone is equal before the law. No one gets special treatment — rich or poor, powerful or ordinary. If the government treats two similar people differently without a good reason, it violates Article 14.",
+    "keywords": ["equality", "equal protection", "discrimination", "law", "equal treatment", "fairness", "bias", "arbitrary", "classification"]
+  },
+  {
+    "id": 4,
+    "article": "Article 15",
+    "title": "Prohibition of Discrimination",
+    "text": "The State shall not discriminate against any citizen on grounds only of religion, race, caste, sex, place of birth or any of them. No citizen shall be subjected to any disability, liability, restriction or condition on grounds only of religion, race, caste, sex, place of birth or any of them.",
+    "simple_explanation": "The government cannot discriminate between citizens based on religion, race, caste, sex, or place of birth. This protects women, SC/ST communities, and minorities from discriminatory laws and policies.",
+    "keywords": ["discrimination", "religion", "race", "caste", "sex", "birth", "reservation", "SC", "ST", "OBC", "women", "minority", "gender"]
+  },
+  {
+    "id": 5,
+    "article": "Article 16",
+    "title": "Equality of Opportunity in Public Employment",
+    "text": "There shall be equality of opportunity for all citizens in matters relating to employment or appointment to any office under the State. No citizen shall be discriminated against in respect of any employment or office under the State on grounds only of religion, race, caste, sex, descent, place of birth, residence or any of them.",
+    "simple_explanation": "All citizens get equal opportunity in government jobs. The State cannot deny a government job to someone based on religion, caste, sex, etc. Reservation for SC/ST/OBC is allowed as a special provision under this article.",
+    "keywords": ["employment", "government job", "reservation", "appointment", "opportunity", "public office", "job", "recruit", "hire", "service"]
+  },
+  {
+    "id": 6,
+    "article": "Article 17",
+    "title": "Abolition of Untouchability",
+    "text": "Untouchability is abolished and its practice in any form is forbidden. The enforcement of any disability arising out of Untouchability shall be an offence punishable in accordance with law.",
+    "simple_explanation": "Untouchability is completely abolished. Anyone who practices it can be punished by law. This is backed by the Protection of Civil Rights Act, 1955. This is one of the few articles that is enforceable against private individuals too, not just the State.",
+    "keywords": ["untouchability", "caste", "discrimination", "dalit", "SC", "abolished", "forbidden", "atrocity", "harijan"]
+  },
+  {
+    "id": 7,
+    "article": "Article 19",
+    "title": "Right to Freedom of Speech and Expression",
+    "text": "All citizens shall have the right to freedom of speech and expression; to assemble peaceably and without arms; to form associations or unions; to move freely throughout the territory of India; to reside and settle in any part of the territory of India; and to practise any profession or to carry on any occupation, trade or business.",
+    "simple_explanation": "Citizens have 6 key freedoms: speech, peaceful assembly, forming associations, free movement within India, right to reside anywhere in India, and right to choose any profession or business. These can be reasonably restricted by the State on grounds like national security, public order, and decency.",
+    "keywords": ["speech", "expression", "freedom", "assembly", "association", "movement", "profession", "press", "media", "protest", "demonstration", "internet", "ban", "censorship", "sedition"]
+  },
+  {
+    "id": 8,
+    "article": "Article 20",
+    "title": "Protection in Respect of Conviction for Offences",
+    "text": "No person shall be convicted of any offence except for violation of a law in force at the time of the commission of the act charged as an offence, nor be subjected to a penalty greater than that which might have been inflicted under the law in force at the time of the commission of the offence. No person shall be prosecuted and punished for the same offence more than once. No person accused of any offence shall be compelled to be a witness against himself.",
+    "simple_explanation": "Three protections: (1) You can only be punished under a law that existed when you committed the act — no retrospective punishment. (2) You cannot be tried for the same crime twice (Double Jeopardy). (3) You cannot be forced to testify against yourself (Right to Silence / Self-incrimination).",
+    "keywords": ["conviction", "punishment", "double jeopardy", "self-incrimination", "witness", "retrospective", "ex post facto", "trial", "accused", "criminal", "silence"]
+  },
+  {
+    "id": 9,
+    "article": "Article 21",
+    "title": "Protection of Life and Personal Liberty",
+    "text": "No person shall be deprived of his life or personal liberty except according to procedure established by law.",
+    "simple_explanation": "This is the most powerful fundamental right. It protects your right to life and personal liberty. Courts have expanded it to include: right to privacy, right to dignity, right to livelihood, right to health, right to a speedy trial, right to a clean environment, and much more. Any illegal arrest or detention violates Article 21.",
+    "keywords": ["life", "liberty", "personal liberty", "deprivation", "arrest", "detention", "privacy", "dignity", "health", "environment", "speedy trial", "custodial death", "encounter", "torture", "handcuff", "bail", "prison", "livelihood"]
+  },
+  {
+    "id": 10,
+    "article": "Article 21A",
+    "title": "Right to Education",
+    "text": "The State shall provide free and compulsory education to all children of the age of six to fourteen years in such manner as the State may, by law, determine.",
+    "simple_explanation": "All children between 6 and 14 years have the right to free and compulsory education. This led to the Right to Education (RTE) Act, 2009. Private schools must reserve 25% seats for economically weaker sections.",
+    "keywords": ["education", "children", "school", "free education", "compulsory", "RTE", "right to education", "student", "6 to 14", "primary school"]
+  },
+  {
+    "id": 11,
+    "article": "Article 22",
+    "title": "Protection Against Arbitrary Arrest and Detention",
+    "text": "No person who is arrested shall be detained in custody without being informed of the grounds for such arrest. Every person who is arrested and detained in custody shall be produced before the nearest magistrate within a period of twenty-four hours of such arrest.",
+    "simple_explanation": "If you are arrested: (1) You must be told why you are being arrested. (2) You have the right to consult a lawyer. (3) You must be produced before a magistrate within 24 hours. Violation of these rights means the arrest is illegal and you can approach court for release.",
+    "keywords": ["arrest", "detention", "magistrate", "custody", "24 hours", "grounds", "lawyer", "bail", "police", "FIR", "illegal detention", "habeas corpus", "preventive detention"]
+  },
+  {
+    "id": 12,
+    "article": "Article 23",
+    "title": "Prohibition of Traffic in Human Beings and Forced Labour",
+    "text": "Traffic in human beings and beggar and other similar forms of forced labour are prohibited and any contravention of this provision shall be an offence punishable in accordance with law.",
+    "simple_explanation": "Human trafficking, forced labour, and bonded labour (beggar) are banned. Even if a person 'agrees' to work for free, it is unconstitutional. The State can impose compulsory service for public purposes like military service.",
+    "keywords": ["trafficking", "forced labour", "bonded labour", "beggar", "slavery", "human trafficking", "exploitation", "prostitution", "child labour"]
+  },
+  {
+    "id": 13,
+    "article": "Article 24",
+    "title": "Prohibition of Employment of Children in Factories",
+    "text": "No child below the age of fourteen years shall be employed to work in any factory or mine or engaged in any other hazardous employment.",
+    "simple_explanation": "Children below 14 cannot be made to work in factories, mines, or any hazardous work. This is the constitutional basis for child labour laws in India. Violators can be criminally prosecuted.",
+    "keywords": ["child labour", "factory", "mine", "hazardous", "14 years", "child", "employer", "work", "exploitation"]
+  },
+  {
+    "id": 14,
+    "article": "Article 25",
+    "title": "Freedom of Conscience and Free Profession of Religion",
+    "text": "Subject to public order, morality and health, all persons are equally entitled to freedom of conscience and the right freely to profess, practise and propagate religion.",
+    "simple_explanation": "Every person can freely believe in, practice, and spread their religion. The State cannot force you to change religion or stop you from following your faith, unless it disturbs public order or health. Triple talaq, temple entry issues, and religious conversion debates often involve this article.",
+    "keywords": ["religion", "conscience", "propagate", "profess", "faith", "belief", "worship", "conversion", "temple", "mosque", "church", "religious practice", "prayer"]
+  },
+  {
+    "id": 15,
+    "article": "Article 26",
+    "title": "Freedom to Manage Religious Affairs",
+    "text": "Subject to public order, morality and health, every religious denomination or any section thereof shall have the right to establish and maintain institutions for religious and charitable purposes; to manage its own affairs in matters of religion; to own and acquire movable and immovable property; and to administer such property in accordance with law.",
+    "simple_explanation": "Religious groups have the right to set up religious institutions, manage their own religious affairs, and own property. The State cannot take over the management of a mosque, temple, or church's religious activities.",
+    "keywords": ["religious denomination", "manage", "institution", "property", "religious affairs", "temple", "mosque", "church", "endowment", "trust", "waqf"]
+  },
+  {
+    "id": 16,
+    "article": "Article 32",
+    "title": "Right to Constitutional Remedies",
+    "text": "The right to move the Supreme Court by appropriate proceedings for the enforcement of the rights conferred by this Part is guaranteed. The Supreme Court shall have power to issue directions or orders or writs, including writs in the nature of habeas corpus, mandamus, prohibition, quo warranto and certiorari, whichever may be appropriate, for the enforcement of any of the rights conferred by this Part.",
+    "simple_explanation": "This is called the 'Heart and Soul of the Constitution' by Dr. B.R. Ambedkar. If any fundamental right is violated, you can directly approach the Supreme Court. The court can issue 5 types of writs: Habeas Corpus (produce the person), Mandamus (do your duty), Prohibition (stop acting), Certiorari (quash the order), and Quo Warranto (by what authority).",
+    "keywords": ["Supreme Court", "writ", "remedy", "enforcement", "habeas corpus", "mandamus", "prohibition", "certiorari", "quo warranto", "petition", "PIL", "public interest litigation", "fundamental right violation"]
+  },
+  {
+    "id": 17,
+    "article": "Article 39A",
+    "title": "Equal Justice and Free Legal Aid",
+    "text": "The State shall secure that the operation of the legal system promotes justice, on a basis of equal opportunity, and shall, in particular, provide free legal aid, by suitable legislation or schemes or in any other way, to ensure that opportunities for securing justice are not denied to any citizen by reason of economic or other disabilities.",
+    "simple_explanation": "Poor people have the right to free legal aid. The government must provide lawyers to those who cannot afford one. The Legal Services Authorities Act, 1987 implements this right. District Legal Services Authorities provide free lawyers to SC/ST, women, disabled persons, and others.",
+    "keywords": ["legal aid", "justice", "free", "economic", "disability", "poor", "lawyer", "DLSA", "NALSA", "legal services"]
+  },
+  {
+    "id": 18,
+    "article": "Article 44",
+    "title": "Uniform Civil Code",
+    "text": "The State shall endeavour to secure for the citizens a uniform civil code throughout the territory of India.",
+    "simple_explanation": "The government should work towards having one common civil law for all citizens, regardless of religion. Currently, different communities follow different personal laws (Hindu Marriage Act, Muslim Personal Law, etc.). UCC is a Directive Principle, so courts cannot enforce it directly, but courts have often urged Parliament to implement it.",
+    "keywords": ["uniform civil code", "UCC", "personal law", "marriage", "divorce", "inheritance", "Muslim", "Hindu", "Christian", "succession"]
+  },
+  {
+    "id": 19,
+    "article": "Article 51A",
+    "title": "Fundamental Duties",
+    "text": "It shall be the duty of every citizen of India to: abide by the Constitution and respect its ideals; cherish and follow the noble ideals of the freedom struggle; uphold and protect the sovereignty and integrity of India; defend the country; promote harmony and the spirit of common brotherhood; preserve the rich heritage of our composite culture; protect and improve the natural environment; develop the scientific temper and spirit of inquiry; safeguard public property; and strive towards excellence.",
+    "simple_explanation": "Citizens have 11 fundamental duties including: respect the Constitution, protect sovereignty, promote harmony, protect environment, develop scientific temper, safeguard public property. These are moral obligations — currently not legally enforceable, but courts have used them to interpret laws.",
+    "keywords": ["duty", "citizen", "sovereignty", "environment", "brotherhood", "scientific temper", "constitution", "fundamental duties", "national flag", "anthem", "public property"]
+  },
+  {
+    "id": 20,
+    "article": "Article 226",
+    "title": "Power of High Courts to Issue Writs",
+    "text": "Every High Court shall have power, throughout the territories in relation to which it exercises jurisdiction, to issue to any person or authority, including in appropriate cases, any Government, within those territories directions, orders or writs, including writs in the nature of habeas corpus, mandamus, prohibitions, quo warranto and certiorari, or any of them, for the enforcement of any of the rights conferred by Part III and for any other purpose.",
+    "simple_explanation": "High Courts can also issue writs for enforcement of fundamental rights (like the Supreme Court under Article 32), but additionally for any other legal right as well. So for local/state-level violations, you approach the High Court. Article 226 is wider in scope than Article 32.",
+    "keywords": ["High Court", "writ", "habeas corpus", "mandamus", "certiorari", "state government", "remedy", "enforcement", "petition"]
+  }
+]
